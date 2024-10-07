@@ -42,4 +42,7 @@ I'm an aspiring Backend Developer and a second-year student in Design and Intera
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ruben-nordgaard-39363a1bb/)
+    </td>
+  </tr>
+</table>
 
