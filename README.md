@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python and Java.**
 
-- 💬 Ask me about **Backend development, programming languages, and how to survive the wild journey of transitioning into tech — preferably with snacks.**
-
 - ⚡ Fun fact **If I’m not coding, I’m probably at the gym or wearing my gaming headset.**
 
 <h3 align="left">Connect with me:</h3>
