@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
-<h3 align="center">I'm a backend developer in training and a second-year coding adventurer at the University of Oslo. I’m all about building systems so efficient, they might just outpace my caffeine intake.</h3>
+<h3 align="center">I'm a backend developer in training and a second-year coding adventurer at the University of Oslo.</h3>
 
 - 🔭 I’m currently working on **Enhancing my skills in backend development.**
 
