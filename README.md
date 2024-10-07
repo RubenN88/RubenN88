@@ -1,5 +1,6 @@
 <table>
   <tr>
+    <!-- Sidebar Section -->
     <td valign="top" width="30%">
       <img src="https://github.com/RubenN88/RubenN88/blob/main/profile-pic.jpg" width="100%" alt="Profile Picture">
 
@@ -11,9 +12,13 @@
       <img src="https://img.shields.io/github/followers/RubenN88?label=Followers&style=social" alt="GitHub Followers"> <br><br>
 
       **Location:** Oslo, Norway<br>
-      **LinkedIn:** [Ruben's LinkedIn](https://www.linkedin.com/in/ruben-nordgaard-39363a1bb/)<br>
+      **LinkedIn:** <a href="https://www.linkedin.com/in/ruben-nordgaard-39363a1bb/">Ruben's LinkedIn</a><br>
+      **Email:** <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+      <!-- Add more sidebar content here -->
     </td>
-    <td valign="top">
+
+    <!-- Main Content Section -->
+    <td valign="top" width="70%">
 
 **Hi there 👋, I'm Ruben**
   I'm a backend developer in training and a second-year coding adventurer at the University of Oslo. 
