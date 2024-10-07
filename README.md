@@ -1,3 +1,20 @@
+<table>
+  <tr>
+    <td valign="top" width="30%">
+      <img src="https://github.com/RubenN88/RubenN88/blob/main/profile-pic.jpg" width="100%" alt="Profile Picture">
+
+      <h3>🎯 Ruben Nordgaard</h3>
+
+      <strong>RubenN88</strong><br>
+      Aspiring Backend Developer<br><br>
+
+      <img src="https://img.shields.io/github/followers/RubenN88?label=Followers&style=social" alt="GitHub Followers"> <br><br>
+
+      **Location:** Oslo, Norway<br>
+      **LinkedIn:** [Ruben's LinkedIn](https://www.linkedin.com/in/ruben-nordgaard-39363a1bb/)<br>
+    </td>
+    <td valign="top">
+
 **Hi there 👋, I'm Ruben**
   I'm a backend developer in training and a second-year coding adventurer at the University of Oslo. 
   I’m all about building systems so efficient, they might just outpace my caffeine intake.
